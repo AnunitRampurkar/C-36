@@ -1,2 +1,1 @@
-# C-36
-- By Anunit Rampurkar
+# C36_SpeedRacer_TeacherActivity
